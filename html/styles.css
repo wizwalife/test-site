@@ -1,0 +1,51 @@
+.BannerContainer {
+    position: relative;
+}
+
+.Banner {
+    width: 100%;
+    display: block;
+}
+
+.BannerText {
+    position: absolute;
+    top: 4%;
+    left: 2%;
+
+    color: rgb(0, 255, 157);
+    font-size: 350%;
+}
+
+.BannerP {
+    position: absolute;
+    color: rgb(130, 255, 245);
+    top: 20%;
+    left: 2%;
+    width: 97%;
+    font-size: 125%;
+}
+
+.InfoButton{
+    position: absolute;
+    border-radius: 100%;
+    background-color: rgb(21, 177, 0);
+    top: 2%;
+    width: 7%;
+    left: 90%;
+    height: 8%;
+}
+
+.HomeButton{
+    position: absolute;
+    border-radius: 100%;
+    background-color: rgb(21, 177, 0);
+    top: 2%;
+    width: 7%;
+    left: 80%;
+    height: 8%;
+}
+
+.P1{
+    width: 20%;
+    height: auto;
+}
